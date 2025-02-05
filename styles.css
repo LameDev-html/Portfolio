@@ -1,0 +1,10 @@
+.welcome {
+    width: 300px;
+    border: 150px black;
+    padding: 50px;
+    margin: 20px;
+}
+
+.main-header {
+    font-family: fantasy;
+}
