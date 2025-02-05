@@ -1,1 +1,1 @@
-This is a Portfolio of myself (LameDev-html). This is a work in progess though, so many commits will be happening once I pick up the pace of things.
+This is a Portfolio of myself (LameDev-html). This is a work in progess though, so many commits will be happening once I pick up the pace of things. (All comments that start with a !!! are stuff that is to be done. Once finished, it will be removed and commited on GitHub.)
